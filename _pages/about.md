@@ -9,12 +9,12 @@ redirect_from:
 
 ## About me
 
-I am a second-year Ph.D. student at [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
+I am a third-year Ph.D. student at [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
 by Prof. [Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang/). I received my B.Eng. in Computer Science and
 Technology in 2020 from Nanjing Forestry University, China, advised by
 Prof. [Ning Ye](https://it.njfu.edu.cn/szdw/20181224/i14051.html).
 
-I'm broadly interested in deep learning and its applications, including Speech-based Health Diagnosis, Speech/Text
+I'm broadly interested in deep learning and its applications, including Spoken Language Understanding, Speech-based Health Diagnosis, Speech/Text
 Classification, and Deep Transfer Learning. 
 Now I am particularly interested in how to build AI systems to enable
 effective and reliable health diagnoses despite the heterogeneity, complexity, and scarcity of the data.
