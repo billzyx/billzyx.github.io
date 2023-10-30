@@ -22,5 +22,3 @@ My recent work has focused on dementia detection from speech, specifically:
 - Effective transfer learning of semantic and non-semantic information ([Frontiers 2021](https://doi.org/10.3389/fcomp.2021.624683); [INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332)), 
 - Explainable models ([ICASSP 2022](https://doi.org/10.1109/icassp43922.2022.9747006))
 - Overcome lack of domain-similar data in transfer learning ([INTERSPEECH 2022](https://billzyx.github.io//files/10862_Paper.pdf)). 
-
-__I am actively looking for research intern positions. Please drop me an email if interested.__
