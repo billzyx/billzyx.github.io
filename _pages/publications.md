@@ -5,6 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+- __Youxiang Zhu__, Nana Lin, Kiran Sandilya Balivada, Daniel Haehn, Xiaohui Liang
+**Adversarial Text Generation using Large Language Models for Dementia Detection**
+Submitted to EMNLP 2024.
+
+
+- __Youxiang Zhu__, Ning Gao, Xiaohui Liang, and Honggang Zhang 
+**Exploiting Privacy Preserving Prompt Techniques for Online Large Language Model Usage**
+Submitted to IEEE Global Communications 2024.
+
+
+- Nana Lin, __Youxiang Zhu__, Xiaohui Liang, John A. Batsis, Caroline Summerour
+**Analyzing Multimodal Features of Spontaneous Voice Assistant Commands for Mild Cognitive Impairment Detection**
+Conference of the International Speech Communication Association (INTERSPEECH), 2024.
+
+## 2023
+
+- __Youxiang Zhu__, Nana Lin, Xiaohui Liang, John Batsis, Robert Roth and Brian MacWhinney 
+**Evaluating Picture Description Speech for Dementia Detection using Image-text Alignment**
+International Workshop on Multimodal Learning (Multimodal KDD), 2023.
+
+- Eli Kurtz, __Youxiang Zhu__, Tiffany Driesse, Bang Tran, John A Batsis, Robert M Roth, Xiaohui Liang
+**Early Detection of Cognitive Decline Using Voice Assistant Commands**
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+
+
 ## 2022
 
 - __Youxiang Zhu__, Xiaohui Liang, John A. Batsis, and Robert M. Roth  
