@@ -17,7 +17,7 @@ Prof. [Ning Ye](https://it.njfu.edu.cn/szdw/20181224/i14051.html).
 I'm broadly interested in deep learning and its applications, including but not limited to
 **speech and language evaluation**, **deep transfer learning**, and **multi-modal learning**.
 During my Ph.D., my research mainly centers around **Cognitive Assessment for Humans**. 
-Specifically, I researched speech-based dementia detection, a super-human level task that
+Specifically, I researched speech-based dementia detection, a super-human difficulty-level task that
 assesses human cognition using speech and language.
 I explored various techniques addressing the challenge of heterogeneity, complexity, and scarcity of dementia-related data:
 - Effective transfer learning of semantic and non-semantic information ([Frontiers 2021](https://doi.org/10.3389/fcomp.2021.624683); [INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332)), 
