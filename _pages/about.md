@@ -14,18 +14,21 @@ by Prof. [Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang/). I received 
 Technology in 2020 from Nanjing Forestry University, China, advised by
 Prof. [Ning Ye](https://it.njfu.edu.cn/szdw/20181224/i14051.html).
 
-I'm broadly interested in deep learning and its applications, including but not limited to
-**speech and language evaluation**, **deep transfer learning**, and **multi-modal learning**.
-During my Ph.D., my research mainly centers around **Cognitive Assessment for Humans**. 
-Specifically, I researched speech-based dementia detection, a super-human difficulty-level task that
-assesses human cognition using speech and language.
-I explored various techniques addressing the challenge of heterogeneity, complexity, and scarcity of dementia-related data:
-- Effective transfer learning of semantic and non-semantic information ([Frontiers 2021](https://doi.org/10.3389/fcomp.2021.624683); [INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332)), 
-- Explainable models ([ICASSP 2022](https://doi.org/10.1109/icassp43922.2022.9747006))
-- Overcome lack of domain-similar data in transfer learning ([INTERSPEECH 2022](https://billzyx.github.io//files/10862_Paper.pdf)). 
-- Multi-modal learning ([Multi-modal KDD 2023](https://arxiv.org/abs/2308.07933))
-- Large language model decoding techniques (EMNLP 2024 submission)
+I'm broadly interested in deep learning and its applications. My recent research agenda centered around 
+**transfer learning** under the **large language model** (LLM) era, with the aim of developing and customizing
+**foundation models** for various downstream tasks. 
+I explored various topics under this agenda, including
+- Reasoning with task relating (EMNLP 2024), 
+- Multi-modality (speech and vision language models) ([INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332), [Multi-modal KDD 2023](https://arxiv.org/abs/2308.07933))
+- Targeted training data selection ([INTERSPEECH 2022](https://billzyx.github.io//files/10862_Paper.pdf))
+- Interpretability ([ICASSP 2022](https://doi.org/10.1109/icassp43922.2022.9747006))
+- Privacy concerns (GLOBECOM 2024)
+
+I also dive deep into speech-based dementia detection, a superhuman-level task that requires LLM to reason about
+dementia-related patterns that human experts may not know.
 
 
-Moving forward, I will further explore **Cognitive Assessment for AI**,
-which could possibly help humans advance towards, achieving, and ultimately harnessing artificial general intelligence(AGI).
+### News
+
+- 09/2024: "Adversarial Text Generation using Large Language Models for Dementia Detection" have been accepted to
+EMNLP 2024 (Main). Camera-ready version will be ready soon. See you in Miami!
