@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a final-year Ph.D. student at the [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
+I am a fourth-year Ph.D. student at the [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
 by Prof. [Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang/). I received my B.Eng. in Computer Science and
 Technology in 2020 from Nanjing Forestry University, China, advised by
 Prof. [Ning Ye](https://it.njfu.edu.cn/szdw/20181224/i14051.html).
@@ -30,5 +30,6 @@ dementia-related patterns that human experts may not know.
 
 ### News
 
+- 10/2024: I will attend COLM 2024 in Philadelphia.
 - 09/2024: "Adversarial Text Generation using Large Language Models for Dementia Detection" have been accepted to
 EMNLP 2024 (Main). Camera-ready version will be ready soon. See you in Miami!
