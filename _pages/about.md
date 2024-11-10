@@ -18,7 +18,7 @@ I'm broadly interested in deep learning and its applications. My recent research
 **transfer learning** under the **large language model** (LLM) era, with the aim of developing and customizing
 **foundation models** for various downstream tasks. 
 I explored various topics under this agenda, including
-- Reasoning with task relating (EMNLP 2024), 
+- Reasoning with task relating [(EMNLP 2024)](https://aclanthology.org/2024.emnlp-main.1222/), 
 - Multi-modality (speech and vision language models) ([INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332), [Multi-modal KDD 2023](https://arxiv.org/abs/2308.07933))
 - Targeted training data selection ([INTERSPEECH 2022](https://billzyx.github.io//files/10862_Paper.pdf))
 - Interpretability ([ICASSP 2022](https://doi.org/10.1109/icassp43922.2022.9747006))
