@@ -20,7 +20,7 @@ I'm broadly interested in deep learning and its applications. My recent research
 I explored various topics under this agenda, including
 - Reasoning with task relating [(EMNLP 2024)](https://aclanthology.org/2024.emnlp-main.1222/), 
 - Multi-modality (speech and vision language models) ([INTERSPEECH 2021](https://doi.org/10.21437/interspeech.2021-332), [Multi-modal KDD 2023](https://arxiv.org/abs/2308.07933))
-- Targeted training data selection ([INTERSPEECH 2022](https://billzyx.github.io//files/10862_Paper.pdf))
+- Targeted training data selection ([INTERSPEECH 2022](https://www.isca-archive.org/interspeech_2022/zhu22d_interspeech.pdf))
 - Interpretability ([ICASSP 2022](https://doi.org/10.1109/icassp43922.2022.9747006))
 - Privacy concerns (GLOBECOM 2024)
 
@@ -30,6 +30,7 @@ dementia-related patterns that human experts may not know.
 
 ### News
 
+- 11/2024: I gave a talk at Umass Boston CS 442/642 Cybersecurity in the Internet of Things about LLM prompt privacy protection. Check out the slide [link](https://billzyx.github.io//files/privacy_slide.pdf).
 - 10/2024: I will attend COLM 2024 in Philadelphia.
 - 09/2024: "Adversarial Text Generation using Large Language Models for Dementia Detection" have been accepted to
-EMNLP 2024 (Main). Camera-ready version will be ready soon. See you in Miami!
+EMNLP 2024 (Main). ~~Camera-ready version will be ready soon.~~ Check paper using the [link](https://aclanthology.org/2024.emnlp-main.1222/). See you in Miami!
