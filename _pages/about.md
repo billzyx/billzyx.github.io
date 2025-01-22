@@ -30,6 +30,7 @@ dementia-related patterns that human experts may not know.
 
 ### News
 
+- 01/2025: I will intern at [fixie.ai](https://fixie.ai/) this spring working on speech language models and speech generation.
 - 11/2024: I gave a talk at Umass Boston CS 442/642 Cybersecurity in the Internet of Things about LLM prompt privacy protection. Check out the slide [link](https://billzyx.github.io//files/privacy_slide.pdf).
 - 10/2024: I will attend COLM 2024 in Philadelphia.
 - 09/2024: "Adversarial Text Generation using Large Language Models for Dementia Detection" have been accepted to
