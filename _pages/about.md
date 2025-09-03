@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a fourth-year Ph.D. student at the [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
+I am a Ph.D. student at the [Computer Science Department](https://www.cs.umb.edu/), UMass Boston, USA, advised
 by Prof. [Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang/). I received my B.Eng. in Computer Science and
 Technology in 2020 from Nanjing Forestry University, China, advised by
 Prof. [Ning Ye](https://it.njfu.edu.cn/szdw/20181224/i14051.html).
