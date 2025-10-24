@@ -30,6 +30,7 @@ dementia-related patterns that human experts may not know.
 
 ### News
 
+- 10/2025: Check our EMNLP 2025 paper: "ReEvalMed: Rethinking Medical Report Evaluation by Aligning Metrics with Real-World Clinical Judgment". See you in Suzhou! [[Paper link]](https://arxiv.org/abs/2510.00280)
 - 04/2025: Excited to share a new preprint: "Focus Directions Make Your Language Models Pay More Attention to Relevant Contexts." [[Paper]](https://arxiv.org/abs/2503.23306)
 - 01/2025: I will intern at [fixie.ai](https://fixie.ai/) this spring working on speech language models and speech generation.
 - 11/2024: I gave a talk at Umass Boston CS 442/642 Cybersecurity in the Internet of Things about LLM prompt privacy protection. Check out the slide [link](https://billzyx.github.io//files/privacy_slide.pdf).
